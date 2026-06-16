@@ -1,4 +1,4 @@
-# 💓 ClinicalPulse
+#  ClinicalPulse
 ### MySQL-powered Cardiovascular, Endocrine & Mental Health analytics using real CMS Medicare data with HIPAA-compliant synthetic patients.
 
 ---
