@@ -1,6 +1,8 @@
 # ClinicalPulse
 **MySQL-powered Cardiovascular, Endocrine & Mental Health analytics using real CMS Medicare data with HIPAA-compliant synthetic patients.**
 
+**[View Full Notebook (HTML)](https://abhijeethganji99.github.io/ClinicalPulse/)** — rendered with all outputs, charts, and query results.
+
 > **Related project:** [GlucoseIQ](../glucoseiq) — Diabetes-focused analytics using UCI Pima + Kaggle clinical data and 4 CMS Tier 1 APIs.
 
 ---
